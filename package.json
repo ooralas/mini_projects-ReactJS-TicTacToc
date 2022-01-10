@@ -1,5 +1,5 @@
 {
-  "name": "tic-tac-toc_app",
+  "name": "tic-tac-toe_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
