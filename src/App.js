@@ -101,7 +101,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h2 className='header'>Tic Tac Toc</h2>
+      <h2 className='header'>Tic Tac Toe</h2>
       <main>
         <p className={`winStatment ${gameEnded ? "show" : "hide"} `}>
           {wonPlayer} won
